@@ -11,7 +11,7 @@ Except as otherwise provided in this Privacy Policy, the Software will not discl
 
 The contents of this agreement will be updated from time to time, please refer to the latest.
 
-## 1. Application
+## 1. Scope of Application
 
 When using this software, you will need to open the device with the following permissions:
 1. Access Video Library, Picture Library, Music Library
