@@ -3,7 +3,7 @@ UWP Privacy Policy
 
 #Privacy Policy
 
-This software refers to the UWP native video player software (hereinafter referred to as this software).
+This software refers to the Screen Recorder Helper software (hereinafter referred to as this software).
 
 This software values user privacy. This software respects and protects the personal privacy rights of all users of the service. In order to provide you with more accurate and personalized services, the software will use and disclose your personal information in accordance with the provisions of this privacy policy.
 
@@ -13,10 +13,8 @@ The contents of this agreement will be updated from time to time, please refer t
 
 1. Scope of Application
 When using this software, you will need to open the device with the following permissions:
+a. microphone b. graphic capture
 
-Access Video Library, Picture Library, Music Library
-Background media playback
-Access to removable storage
 2. Information Use
 The Software will not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your prior permission, or the third party and the Software (including the Software Affiliates) provide you separately or jointly Service, and after the service ends, it will be barred from access to all such materials that it has previously had access to.
 
@@ -26,7 +24,7 @@ For the purpose of serving users, the Software may use your personal information
 
 #隐私政策
 
-本软件指 UWP 本地视频播放器 软件（以下称本软件）。
+本软件指 录屏姬 软件（以下称本软件）。
 
 本软件重视用户隐私，本软件尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本软件会按照本隐私权政策的规定使用和披露您的个人信息。
 
@@ -36,7 +34,7 @@ For the purpose of serving users, the Software may use your personal information
 
 ##1. 适用范围
 
-使用本软件时，会需要打开设备以下权限： 1.访问视频库、图片库、音乐库 2.背景媒体播放 3.访问可移动存储
+使用本软件时，会需要打开设备以下权限： 1.麦克风 2.图形捕获
 
 ##2.信息使用
 
