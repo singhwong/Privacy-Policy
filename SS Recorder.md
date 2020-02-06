@@ -12,13 +12,13 @@ Except as otherwise provided in this Privacy Policy, the Software will not discl
 The contents of this agreement will be updated from time to time, please refer to the latest.
 
 1. Scope of Application
-When using this software, you will need to open the device with the following permissions:
 
-  a. microphone b. graphic capture
+When using this software, you will need to open the device with the following permissions:
+a. microphone b. graphic capture
 
 2. Information Use
 
-  The Software will not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your prior permission, or the third party and the Software (including the Software Affiliates) provide you separately or jointly Service, and after the service ends, it will be barred from access to all such materials that it has previously had access to.
+The Software will not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your prior permission, or the third party and the Software (including the Software Affiliates) provide you separately or jointly Service, and after the service ends, it will be barred from access to all such materials that it has previously had access to.
 
 This software also does not allow any third party to collect, edit, sell or disseminate your personal information by any means. If any user of the software platform engages in the above activities, the software has the right to terminate the service agreement with that user immediately upon discovery.
 
