@@ -13,6 +13,7 @@ The contents of this agreement will be updated from time to time, please refer t
 
 1. Scope of Application
 When using this software, you will need to open the device with the following permissions:
+
 a. microphone b. graphic capture
 
 2. Information Use
