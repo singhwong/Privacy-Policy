@@ -8,7 +8,7 @@
 #### 关于数据
 * 用户数据(包括账号)将保存在 Microsoft Azure 服务器上，支持跨WIN10设备运行。
 * 应用使用的是国际版的 Microsoft Azure，数据访问可能会存在较大延迟, 当前使用的是在东南亚的服务器.
-# 英文
+# English
 ## Privacy Policy
 ### "Text Notes&To Do" is hereinafter referred to as "app", and currently requires an account to log in to use it. The user should log in to the account to use it after reading and agreeing to the following content.
 #### About Account
