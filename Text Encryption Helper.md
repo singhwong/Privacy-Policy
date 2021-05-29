@@ -4,4 +4,12 @@
 * 该应用不会获取用户任何数据，包括本地设备数据或账号数据。
 * 该应用不需要打开任何设备权限。(虽然默认打开了联网权限，但该应该无需联网，即使没有网络也可正常使用)。
 ### 联系方式
-* 关于该应用或该隐私策略有其他疑问，可以通过该[邮箱](singhwongwxg@hotmail)来联系开发者。
+* 关于该应用或该隐私策略有其他疑问，可以通过该邮箱(singhwongwxg@hotmail.com)来联系开发者。
+
+# English
+## The application "Text Encryption Helper", hereinafter referred to as "the application", has a privacy policy as follows. Users should know the content of the privacy policy before using the application.
+### Content
+* The application will not obtain any user data, including local device data or account data.
+* The app does not need to open any device permissions. (Although the network permission is turned on by default, there should be no need to network, and it can be used normally even if there is no network).
+### Contact
+* If you have other questions about this application or this privacy policy, you can contact the developer through this email (singhwongwxg@hotmail.com).
