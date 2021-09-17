@@ -7,7 +7,7 @@
 * 用户对于该隐私策略或应用有其他问题，可通过邮件(singhwongwxg@hotmail.com)联系本人(即开发者)。
 # English
 ## Privacy Policy
-### "Free Painting" is hereinafter referred to as "application". The content of the privacy policy is as follows. Users should know the following content and agree before using the application. The privacy policy will be updated from time to time, subject to the latest content.
+### "Paint One" is hereinafter referred to as "application". The content of the privacy policy is as follows. Users should know the following content and agree before using the application. The privacy policy will be updated from time to time, subject to the latest content.
 #### User Information Collection
 * The application does not require a login account to use, nor does it need to be connected to the Internet, so it will not collect or use any user and device information.
 #### Contact Details
