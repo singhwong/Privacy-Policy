@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 This software refers to "诗词百话" software (hereinafter referred to as this software).
 
@@ -23,7 +23,7 @@ This software will not collect and use user local or account information, please
 
 Last updated：12-23-2022
 
-#隐私政策
+# 隐私政策
 
 本软件指“诗词百话”软件（以下称本软件）。
 
